@@ -6,7 +6,7 @@ MPU6050 basic driver library
 
 
 Required components:
-Arduino Nano
-Basic 2-pin tactile button
-MPU6050 gyro
+Arduino Nano,
+Basic 2-pin tactile button,
+MPU6050 gyro,
 8x8 LED matrix
